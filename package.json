@@ -1,0 +1,24 @@
+{
+  "name": "animation",
+  "version": "1.0.0",
+  "description": "<!--  * @Author: your name  * @Date: 2021-08-14 16:11:40  * @LastEditTime: 2021-08-14 16:27:06  * @LastEditors: Please set LastEditors  * @Description: In User Settings Edit  * @FilePath: /animation/README.md --> # animation 动画相关",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turning1998/animation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turning1998/animation/issues"
+  },
+  "homepage": "https://github.com/turning1998/animation#readme",
+  "devDependencies": {
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
